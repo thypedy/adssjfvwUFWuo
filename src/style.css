@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    overflow-x: hidden;
+    background: #212529;;
+}
+
+.ah{
+    margin: 30px 0;
+}
+
+.pouco{
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.bolda{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.footer{
+    text-align: right;
+    background: #212529;
+    color: #fff;
+}
